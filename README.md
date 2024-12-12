@@ -40,9 +40,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 	🎲 Rodando o servidor
  ```bash 
  # Clone este repositório 
- $ git clone https://github.com/justino1806/instalikes-Backend 
+ $ git clone https://github.com/justino1806/imersaoBack-End 
  # Acesse o projeto pelo vsCode ou via terminal/cmd (caso faça pelo vsCode, ignore esse passo)
- $ cd instalikes-Backend
+ $ cd imersaoBack-End
  $ code * 
  # Instale as dependências
  $ npm install 
